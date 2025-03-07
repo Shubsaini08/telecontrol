@@ -108,8 +108,8 @@ To install and run **telecontrol.py**, follow these steps:
 
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/Shubsaini08/telecontrol.py.git
-   cd telecontrol.py
+   git clone https://github.com/Shubsaini08/telecontrol.git
+   cd telecontrol
    ```
 
 2. **Install Dependencies:**  
