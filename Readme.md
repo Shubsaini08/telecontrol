@@ -16,6 +16,19 @@
 >> open it create new bot then paste its API KEY into this script 
 >>>
 
+```bash
+start - Starts the bot or brings it back online and optionally sets or switches the device context
+match - Searches for a specified file by path and sends it if found or prompts for the full file path if not provided
+git - Prompts for a GitHub repository URL and clones the repository while reporting its size
+writecontrol - Activates WriteControl mode where subsequent plain text messages are executed as shell commands
+cat - Prompts for a file path and then displays the file content sending it as a document if too long
+stop - Puts the bot into offline mode to minimize network usage only start can reactivate it
+cd - Changes the working directory for the active device context
+ls - Lists the contents of the current directory with icons and file sizes
+pwd - Displays the current working directory for the active device
+devices - Lists all active device contexts along with their current directories and last active times
+```
+
 3. READ THIS GUIDE ✨
 
 ---
